@@ -14,3 +14,9 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Spring-for-Android"
 include ':app'
+include ':spring-aop'
+include ':spring-beans'
+include ':spring-context'
+include ':spring-core'
+include ':java-beans'
+include ':cglib-android'

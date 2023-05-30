@@ -10,6 +10,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cglib-android" />
+            <option value="$PROJECT_DIR$/java-beans" />
+            <option value="$PROJECT_DIR$/spring-aop" />
+            <option value="$PROJECT_DIR$/spring-beans" />
+            <option value="$PROJECT_DIR$/spring-context" />
+            <option value="$PROJECT_DIR$/spring-core" />
           </set>
         </option>
       </GradleProjectSettings>
